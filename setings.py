@@ -1,0 +1,1 @@
+YANDEX_DISK_TOKEN = 'y0__xCb0tW4BhjblgMgy8j4gRcw_4LtgAi2xefzv3xAFEQr6DQyt6SzvtVuLg'
