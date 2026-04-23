@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-from setings import YANDEX_DISK_TOKEN
+from setting import YANDEX_DISK_TOKEN
 
 class YandexDiskService:
     URL = 'https://cloud-api.yandex.net/v1/disk'
